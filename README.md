@@ -118,7 +118,7 @@ After installation :
 
 ## Tests
 
-Insomnia is used to test REST API calls. Please see the walk-through demonstration videos: https://drive.google.com/file/d/1CDPJop60z2O65fQmcm_xtfPGSQ8te57Y/viewas well as the sections on Description and Usage to see how data is added and tested using Insomnia.
+Insomnia is used to test REST API calls. Please see the walk-through demonstration videos: https://www.youtube.com/watch?v=5K76s6LZUl4&ab_channel=ANDRESMEJIAwell as the sections on Description and Usage to see how data is added and tested using Insomnia.
 
 On Insomnia, the following API routes have been created and used to add, update, or remove users, friends, thoughts, and reactions in the user's database.
 
